@@ -176,3 +176,28 @@ z-index: 1;
 border: 1px solid #fff;
 padding: 4px;
 }
+
+td.critical {
+  background-color: #dc5ede;
+  color: #fff;
+}
+
+td.high {
+  background-color:#ff5050;
+  color: #fff;
+}
+
+td.medium {
+  background-color: #ffa15f;
+  color: #fff;
+}
+
+td.low {
+  background-color: #ffe000;
+  color: #fff;
+}
+
+td.info {
+  background-color: #909090;
+  color: #fff;
+}
