@@ -136,11 +136,11 @@ score-medium{
 background-color:#ffa15f;
 font-weight: bold;
 display: block;
-width: 90px;
-height: 65px;
+width: 550px;
+height: 400px;
 text-align: center;
 color: white;
-float: right;
+float: left;
 line-height:20px;
 z-index: 1;
 border: 1px solid #fff;
