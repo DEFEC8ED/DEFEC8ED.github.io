@@ -98,7 +98,7 @@ body {
 
 #score-info
 #score-low
-#score-medium
+score-medium
 #score-high
 #score-critical
 
@@ -132,7 +132,7 @@ border: 1px solid #fff;
 padding: 4px;
 }
 
-#score-medium{
+score-medium{
 background-color:#ffa15f;
 font-weight: bold;
 display: block;
