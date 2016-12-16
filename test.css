@@ -95,3 +95,78 @@ body {
   border: none;
   background: #e7e7e7;
 }
+
+#score-info{
+background-color:#909090;
+font-weight: bold;
+display: block;
+width: 90px;
+height: 65px;
+text-align: center;
+color: white;
+float: right;
+line-height:20px;
+z-index: 1;
+border: 1px solid #fff;
+padding: 4px;
+}
+
+#score-low{
+background-color:#ffe000;
+font-weight: bold;
+display: block;
+width: 90px;
+height: 65px;
+text-align: center;
+color: white;
+float: right;
+line-height:20px;
+z-index: 1;
+border: 1px solid #fff;
+padding: 4px;
+}
+
+#score-medium{
+background-color:#ffa15f;
+font-weight: bold;
+display: block;
+width: 90px;
+height: 65px;
+text-align: center;
+color: white;
+float: right;
+line-height:20px;
+z-index: 1;
+border: 1px solid #fff;
+padding: 4px;
+}
+
+#score-high{
+background-color:#ff5050;
+font-weight: bold;
+display: block;
+width: 90px;
+height: 65px;
+text-align: center;
+color: white;
+float: right;
+line-height:20px;
+z-index: 1;
+border: 1px solid #fff;
+padding: 4px;
+}
+
+#score-critical{
+background-color:#dc5ede;
+font-weight: bold;
+display: block;
+width: 90px;
+height: 65px;
+text-align: center;
+color: white;
+float: right;
+line-height:20px;
+z-index: 1;
+border: 1px solid #fff;
+padding: 4px;
+}
