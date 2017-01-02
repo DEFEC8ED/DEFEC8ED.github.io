@@ -2,6 +2,21 @@ body {
   font-size: 14px;
 }
 
+.test {
+  background-color:#909090;
+  font-weight: bold;
+  display: block;
+  width: 90px;
+  height: 65px;
+  text-align: center;
+  color: white;
+  float: right;
+  line-height:20px;
+  z-index: 1;
+  border: 1px solid #fff;
+  padding: 4px;
+}
+
 #wmd-input {
   font-size: 13px;
   font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
