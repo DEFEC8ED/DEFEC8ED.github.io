@@ -124,8 +124,7 @@ div.score-info {
 }
 
 div.score-low {
-  background-color:#ffe000;
-  font-weight: bold;
+  background-color:#ffe000;  
   display: block;
   width: 90px;
   height: 65px;
@@ -140,7 +139,6 @@ div.score-low {
 
 div.score-medium {
   background-color:#ffa15f;
-  font-weight: bold;
   display: block;
   width: 90px;
   height: 65px;
