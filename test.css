@@ -108,7 +108,7 @@ score-medium
 score-high
 score-critical
 
-score-info {
+div.score-info {
   background-color:#909090;
   font-weight: bold;
   display: block;
@@ -123,7 +123,7 @@ score-info {
   padding: 4px;
 }
 
-score-low {
+div.score-low {
   background-color:#ffe000;
   font-weight: bold;
   display: block;
@@ -138,7 +138,7 @@ score-low {
   padding: 4px;
 }
 
-score-medium {
+div.score-medium {
   background-color:#ffa15f;
   font-weight: bold;
   display: block;
@@ -153,7 +153,7 @@ score-medium {
   padding: 4px;
 }
 
-score-high {
+div.score-high {
   background-color:#ff5050;
   font-weight: bold;
   display: block;
@@ -168,7 +168,7 @@ score-high {
   padding: 4px;
 }
 
-score-critical {
+div.score-critical {
   background-color:#dc5ede;
   font-weight: bold;
   display: block;
