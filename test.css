@@ -2,7 +2,7 @@ body {
   font-size: 14px;
 }
 
-test {
+.test {
   background-color:red;
   border: 0;
   border-color: white;
