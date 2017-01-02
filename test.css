@@ -226,3 +226,29 @@ thead {
     vertical-align: middle;
     border-color: inherit;
 }
+
+div.container {
+    box-sizing: border-box;
+    width: 50%;
+    border: 1px solid #fff;
+    float: left;
+    background-color:#909090;
+  	font-weight: bold;
+  	display: block;
+  	width: 90px;
+  	height: 65px;
+  	text-align: center;
+}
+
+div.box {
+    box-sizing: border-box;
+    width: 50%;
+    border: 1px solid #fff;
+    float: left;
+    background-color:#909090;
+  	font-weight: bold;
+  	display: block;
+  	width: 90px;
+  	height: 65px;
+  	text-align: center;
+}
