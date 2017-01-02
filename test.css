@@ -2,34 +2,6 @@ body {
   font-size: 14px;
 }
 
-div.container {
-    box-sizing: border-box;
-    width: 50%;
-    border: 1px solid #fff;
-    float: left;
-    background-color:#909090;
-  	font-weight: bold;
-  	display: block;
-  	width: 90px;
-  	height: 65px;
-  	text-align: center;
-  	color: white;
-}
-
-div.box {
-    box-sizing: border-box;
-    width: 50%;
-    border: 1px solid #fff;
-    float: left;
-    background-color:#909090;
-  	font-weight: bold;
-  	display: block;
-  	width: 90px;
-  	height: 65px;
-  	text-align: center;
-  	color: white;
-}
-
 .test {
   background-color:red;
   border: 0;
@@ -253,4 +225,32 @@ thead {
     display: table-header-group;
     vertical-align: middle;
     border-color: inherit;
+}
+
+container {
+    box-sizing: border-box;
+    width: 50%;
+    border: 1px solid #fff;
+    float: left;
+    background-color:#909090;
+  	font-weight: bold;
+  	display: block;
+  	width: 90px;
+  	height: 65px;
+  	text-align: center;
+  	color: white;
+}
+
+box {
+    box-sizing: border-box;
+    width: 50%;
+    border: 1px solid #fff;
+    float: left;
+    background-color:#909090;
+  	font-weight: bold;
+  	display: block;
+  	width: 90px;
+  	height: 65px;
+  	text-align: center;
+  	color: white;
 }
